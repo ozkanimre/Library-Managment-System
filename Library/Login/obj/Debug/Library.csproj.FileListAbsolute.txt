@@ -1,0 +1,9 @@
+C:\Users\ruvey\Documents\GitHub\LibraryManagementSystem\Library\Login\bin\Debug\Login.exe.config
+C:\Users\ruvey\Documents\GitHub\LibraryManagementSystem\Library\Login\bin\Debug\Login.exe
+C:\Users\ruvey\Documents\GitHub\LibraryManagementSystem\Library\Login\bin\Debug\Login.pdb
+C:\Users\ruvey\Documents\GitHub\LibraryManagementSystem\Library\Login\obj\Debug\Login.Form1.resources
+C:\Users\ruvey\Documents\GitHub\LibraryManagementSystem\Library\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\ruvey\Documents\GitHub\LibraryManagementSystem\Library\Login\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\ruvey\Documents\GitHub\LibraryManagementSystem\Library\Login\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\Documents\GitHub\LibraryManagementSystem\Library\Login\obj\Debug\Login.exe
+C:\Users\ruvey\Documents\GitHub\LibraryManagementSystem\Library\Login\obj\Debug\Login.pdb
