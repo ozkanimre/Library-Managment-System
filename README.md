@@ -16,7 +16,7 @@
 
 <code><img height="80" title="C_Sharp" src="https://github.com/iamruveyda/iamruveyda/blob/master/img/C_Sharp.png?raw=true"></code>
 <code><img height="80" title="Visual Studio " src="https://github.com/iamruveyda/iamruveyda/blob/master/img/visual_studio.png?raw=true"></code>
-<code><img height="80" title="Visual Studio " src="https://raw.githubusercontent.com/iamruveyda/images/97b3edb20319c172085b7cd8168b939104ad61a4/Languages%20and%20Tools/microsoft-sql-server.svg"></code>
+<code><img height="80" title="SQL Server" src="https://raw.githubusercontent.com/iamruveyda/images/97b3edb20319c172085b7cd8168b939104ad61a4/Languages%20and%20Tools/microsoft-sql-server.svg"></code>
 
 ## Screenshots
 ![2](https://user-images.githubusercontent.com/16800428/97899458-61c4b980-1d4a-11eb-86d6-eca90d481d61.png)
